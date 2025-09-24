@@ -11,9 +11,9 @@ lerna-debug.log*
 node_modules
 
 # Build folders
-dist
-dist-ssr
-out
+# dist
+# dist-ssr
+# out
 
 # Local env files (Supabase keys, API keys, secrets)
 .env
